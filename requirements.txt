@@ -1,0 +1,21 @@
+transformers
+transformers[sentencepiece]
+datasets
+sacrebleu
+torch
+pandas
+matplotlib
+seaborn
+nltk
+tqdm
+rouge_score
+py7zr
+pyYAML
+fastapi
+uvicorn
+Jinja2
+notebook
+python-box
+ensure
+
+-e .
